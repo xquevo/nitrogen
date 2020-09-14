@@ -1,4 +1,4 @@
-#if yo a complete skid - download the latest version of python - tick anything to do with path n pip installs, and for the imports - open cmd and type "pip install requests" , "pip install ___" - These are modules and this will download them and allow you to use my program :)
+#if yo a complete skid with no clue on whats going on because you just want free discord nitro realise this has like a super small chance of working but anyways heres some setup help - download the latest version of python - tick anything to do with path n pip installs, and for the imports - open cmd and type "pip install requests" , "pip install ___" - These are modules and this will download them and allow you to use my program :)
 import requests
 import time
 import string 
