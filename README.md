@@ -1,7 +1,7 @@
 # nitrogen
 Discord nitro gen 
 
-Chances are extremely low - so low that you should expect to get nothing... 
+Chances are extremely low - this is a proof of concept - so low that you should expect to get nothing... 
 
 I made this as I see people download random executables all the time that claim to do the same purpose, but I'm certain lots have lots of harmful stuff hidden in them
 
